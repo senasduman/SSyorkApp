@@ -202,15 +202,12 @@ Please follow code style, include tests for new features or bug fixes, and docum
 
 ## License
 
-If you want to add a license, `MIT` is a common choice for open source projects. Add a `LICENSE` file to the repository to make it explicit.
 
 ---
 
 ## Demo
 
 Demo URL placeholder: [https://www.youtube.com/watch?v=bsYHjBq2RYw&t=247s]
-
-Replace the placeholder above with your project's public demo URL.
 
 ---
 
